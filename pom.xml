@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.agileintelligence</groupId>
-    <artifactId>PPMToolSpring</artifactId>
+    <artifactId>ppmtoolspring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>PPMToolSpring</name>
+    <name>ppmtoolspring</name>
     <description>Personal Project Management Tool</description>
 
     <parent>
